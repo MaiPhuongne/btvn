@@ -1,0 +1,4 @@
+
+Nhap ho ten: 
+Nhap nam sinh: 
+Nhap cccd: 
